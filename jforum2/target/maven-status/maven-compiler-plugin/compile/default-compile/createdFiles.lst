@@ -1,0 +1,4 @@
+net\jforum\util\stats\Stats$1.class
+net\jforum\cache\JBossCacheListener$1.class
+net\jforum\util\legacy\clickstream\config\ConfigLoader$1.class
+net\jforum\csrf\CsrfLogger$1.class
